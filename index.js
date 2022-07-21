@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 import * as readline from 'node:readline'
-import { isNumber } from 'node:util';
 
 const min = 0;
 const max = 100;
